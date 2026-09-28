@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+  padding: 8px 14px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+input,
+select {
+  padding: 8px;
+  margin: 5px;
+}
+
+a {
+  color: inherit;
+  font-weight: bold;
+}
